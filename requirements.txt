@@ -1,4 +1,3 @@
-fore
 style
 requests
 sys
